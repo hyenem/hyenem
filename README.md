@@ -11,6 +11,15 @@
 - 🎯 **목표:** 대체불가 개발자가 되기! -> 나만이 할 수 있는 것들 키워가기
 
 ---
+
+## 🚀 Projects
+> 🏆 내가 참여한 프로젝트
+
+| 프로젝트명 | 설명 | 링크 |
+|-----------|------|------|
+| **Healog** | 운동 기록 및 건강 관리 웹 애플리케이션 | [🔗 Repository](https://github.com/hyenem/SSAFY_finalPJT_YYHM) |
+
+---
 <div align = "center">
   <h3> 🏆 Algorithm & Tech Stack </h3>
   <table border = "0">
@@ -41,14 +50,6 @@
   </table>
 </div>
 
----
-
-## 🚀 Projects
-> 🏆 내가 참여한 프로젝트
-
-| 프로젝트명 | 설명 | 링크 |
-|-----------|------|------|
-| **Healog** | 운동 기록 및 건강 관리 웹 애플리케이션 | [🔗 Repository](https://github.com/hyenem/SSAFY_finalPJT_YYHM) |
 
 ---
 
@@ -64,7 +65,7 @@
   </a>
 </p>
 
-===
+---
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hyenem&show_icons=true&theme=tokyonight" height="165">
