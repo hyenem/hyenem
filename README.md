@@ -9,7 +9,14 @@
 - 🔭 **교육:** SSAFY 12기 비전공 JAVA반 & SCSA 24기
 - 💡 **관심사:** 웹 및 앱 개발, 알고리즘, 서비스 기획
 - 🎯 **목표:** 대체불가 개발자가 되기! -> 나만이 할 수 있는 것들 키워가기
-
+<p>
+  <a href="mailto:gpals0429@naver.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/hyenem">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
 ---
 
 ## 🚀 Projects
@@ -51,21 +58,7 @@
 </div>
 
 
----
 
-## 📫 Contact
-> 개발 관련 문의나 협업을 원한다면, 언제든 연락주세요!
-
-<p>
-  <a href="mailto:gpals0429@naver.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/hyenem">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</p>
-
----
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hyenem&show_icons=true&theme=tokyonight" height="165">
