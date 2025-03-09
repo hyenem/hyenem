@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center" font-size='50'>
   # 🚀 HYENEM's GitHub Profile 🚀
 </p>
 <p align="center">
