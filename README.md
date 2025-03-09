@@ -13,9 +13,8 @@
 ## 🏆 Algorithm Tier
 > 백준 solved.ac 티어
 
-<p align="center">
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyenem)](https://solved.ac/hyenem/)
----
+
 
 ## 🛠 Tech Stack
 > 💡 내가 사용하는 기술들
