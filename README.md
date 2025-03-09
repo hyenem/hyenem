@@ -9,34 +9,35 @@
 </p>
 
 ---
-
-## 🏆 Algorithm & Tech Stack
-<table>
-  <tr>
-    <!-- 좌측: 알고리즘 티어 -->
-    <td align="center" width="50%">
-      <a href = https://solved.ac/hyenem/>
-        <img src = "http://mazassumnida.wtf/api/v2/generate_badge?boj=hyenem">
-      </a>
-    <!-- 우측: 기술 스택 -->
-    <td align="center" width="50%">
-      <p>
-        <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-        <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-      </p>
-    </td>
-  </tr>
-</table>
+<p align = "center">
+  <h3> 🏆 Algorithm & Tech Stack </h3>
+  <table border = "0">
+    <tr>
+      <!-- 좌측: 알고리즘 티어 -->
+      <td align="center" width="50%">
+        <a href = https://solved.ac/hyenem/>
+          <img src = "http://mazassumnida.wtf/api/v2/generate_badge?boj=hyenem">
+        </a>
+      <!-- 우측: 기술 스택 -->
+      <td align="center" width="50%">
+        <p>
+          <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
+          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+        </p>
+        <p>
+          <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+          <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+          <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
+        </p>
+        <p>
+          <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+          <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+        </p>
+      </td>
+    </tr>
+  </table>
+</p>
 
 ---
 
