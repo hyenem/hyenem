@@ -3,6 +3,15 @@
   <b>무엇이든 뚝딱뚝딱 해내는 개발자</b> 👨‍💻
 </p>
 
+## 🌱 About Me
+- 🎓 **학력:** 고려대학교 수학교육과 심화전공 졸업
+- 📁 **경력:** 고등학교 수학 교사
+- 🔭 **교육:** SSAFY 12기 비전공 JAVA반 & SCSA 24기
+- 💡 **관심사:** 웹 및 앱 개발, 알고리즘, 서비스 기획
+- 🎯 **목표:** 대체불가 개발자가 되기! -> 나만이 할 수 있는 것들 키워가기
+
+---
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hyenem&show_icons=true&theme=tokyonight" height="165">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyenem&layout=compact&theme=tokyonight" height="165">
@@ -41,13 +50,6 @@
 
 ---
 
-## 🌱 About Me
-- 🔭 **현재:** SSAFY 12기 비전공 JAVA반 & SCSA 24기 (진행 중)
-- 💡 **관심사:** 웹 개발, 알고리즘, 서비스 기획
-- 🎯 **목표:** 더 나은 사용자 경험을 제공하는 개발자가 되기!
-
----
-
 ## 🚀 Projects
 > 🏆 내가 참여한 프로젝트
 
@@ -61,7 +63,7 @@
 > 개발 관련 문의나 협업을 원한다면, 언제든 연락주세요!
 
 <p>
-  <a href="mailto:hyenem@example.com">
+  <a href="mailto:gpals0429@naver.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/hyenem">
