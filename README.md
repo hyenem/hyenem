@@ -14,7 +14,7 @@
 > 백준 solved.ac 티어
 
 <p align="center">
-  <img src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?username=사용자이름">
+  <img src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?username=hyenem">
 </p>
 
 ---
