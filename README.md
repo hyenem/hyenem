@@ -1,7 +1,6 @@
 <h1 align = "center">🚀 <b>HYENEM's GitHub Profile</b>🚀</h1>
 <p align="center">
-  <b>무엇이든 뚝딱뚝딱 해내는 개발자</b> 👨‍💻
-  <p>
+  <b>무엇이든 뚝딱뚝딱 해내는 개발자</b> 👨‍💻 <p>
   <a href="mailto:gpals0429@naver.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
@@ -9,8 +8,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   </p>
-</p>
-
 </p>
 
 ## 🌱 About Me
