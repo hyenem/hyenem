@@ -1,4 +1,4 @@
-<p><span style="font-size: 22px; font-weight: bold;">🚀 <b>HYENEM's GitHub Profile</b>🚀</span></p>
+<h1>🚀 <b>HYENEM's GitHub Profile</b>🚀</h1>
 <p align="center">
   <b>무엇이든 뚝딱뚝딱 해내는 개발자</b> 👨‍💻
 </p>
