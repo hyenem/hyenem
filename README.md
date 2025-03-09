@@ -10,42 +10,33 @@
 
 ---
 
-## 🏆 Algorithm Tier
-> 백준 solved.ac 티어
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyenem)](https://solved.ac/hyenem/)
-
-
-## 🛠 Tech Stack
-> 💡 내가 사용하는 기술들
-
-### **Languages**
-<p>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-</p>
-
-### **Frontend**
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
-</p>
-
-### **Backend & Database**
-<p>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-</p>
-
-### **Tools & Collaboration**
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/FontAwesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
-</p>
+## 🏆 Algorithm & Tech Stack
+<table>
+  <tr>
+    <!-- 좌측: 알고리즘 티어 -->
+    <td align="center" width="50%">
+      <h3>🛡️ 백준 solved.ac 티어</h3>
+      [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyenem)](https://solved.ac/hyenem/)    
+    <!-- 우측: 기술 스택 -->
+    <td align="center" width="50%">
+      <h3>🛠 Tech Stack</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+        <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
