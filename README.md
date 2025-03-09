@@ -1,6 +1,6 @@
 <h1 align="center">🚀 HYENEM's GitHub Profile 🚀</h1>
 <p align="center">
-  <b>무엇이든 뚝딱뚝딱 해내는 개발자</b> 👨‍💻
+  무엇이든 뚝딱뚝딱 해내는 개발자 👨‍💻
 </p>
 
 ## 🌱 About Me
