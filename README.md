@@ -14,7 +14,7 @@
 > 백준 solved.ac 티어
 
 <p align="center">
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyenem](https://solved.ac/hyenem/)</p>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyenem])(https://solved.ac/hyenem/)</p>
 
 ---
 
