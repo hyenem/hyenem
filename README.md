@@ -15,13 +15,11 @@
   <tr>
     <!-- 좌측: 알고리즘 티어 -->
     <td align="center" width="50%">
-      <h3>🛡️ 백준 solved.ac 티어</h3>
       <a href = https://solved.ac/hyenem/>
         <img src = "http://mazassumnida.wtf/api/v2/generate_badge?boj=hyenem">
       </a>
     <!-- 우측: 기술 스택 -->
     <td align="center" width="50%">
-      <h3>🛠 Tech Stack</h3>
       <p>
         <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
