@@ -14,8 +14,7 @@
 > 백준 solved.ac 티어
 
 <p align="center">
-  <img src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?username=hyenem">
-</p>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyenem)](https://solved.ac/hyenem/)</p>
 
 ---
 
