@@ -9,7 +9,7 @@
 </p>
 
 ---
-<p align = "center">
+<div align = "center">
   <h3> 🏆 Algorithm & Tech Stack </h3>
   <table border = "0">
     <tr>
@@ -37,7 +37,7 @@
       </td>
     </tr>
   </table>
-</p>
+</div>
 
 ---
 
