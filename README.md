@@ -11,13 +11,6 @@
 - 🎯 **목표:** 대체불가 개발자가 되기! -> 나만이 할 수 있는 것들 키워가기
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hyenem&show_icons=true&theme=tokyonight" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyenem&layout=compact&theme=tokyonight" height="165">
-</p>
-
----
 <div align = "center">
   <h3> 🏆 Algorithm & Tech Stack </h3>
   <table border = "0">
@@ -70,3 +63,11 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
+
+===
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hyenem&show_icons=true&theme=tokyonight" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyenem&layout=compact&theme=tokyonight" height="165">
+</p>
+
