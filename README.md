@@ -1,4 +1,6 @@
-<h2 align="center">🚀 HYENEM's GitHub Profile 🚀</h2>
+<p align="center">
+  # 🚀 HYENEM's GitHub Profile 🚀
+</p>
 <p align="center">
   <b>무엇이든 뚝딱뚝딱 해내는 개발자</b> 👨‍💻
 </p>
