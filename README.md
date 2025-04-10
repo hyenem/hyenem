@@ -36,6 +36,7 @@
       <td align="center" width="50%">
         <a href = https://solved.ac/hyenem/>
           <img src = "http://mazassumnida.wtf/api/v2/generate_badge?boj=hyenem">
+          <img src="http://mazandi.herokuapp.com/api?handle=hyenem&theme=warm"/></p>
         </a>
       <!-- 우측: 기술 스택 -->
       <td align="center" width="50%">
