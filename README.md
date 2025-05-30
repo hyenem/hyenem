@@ -26,6 +26,7 @@
 | 프로젝트명 | 설명 | 링크 |
 |-----------|------|------|
 | **Healog** | 운동 기록 및 건강 관리 웹 애플리케이션 | [🔗 Repository](https://github.com/hyenem/SSAFY_finalPJT_YYHM) |
+| **SCSAC:Board** | SCSA 내부 게시판 서비스 | [🔗 Repository](https://github.com/hyenem/scsac) |
 
 ---
 <div align = "center">
