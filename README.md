@@ -6,7 +6,7 @@
   <a href="mailto:gpals0429@naver.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/hyenem">
+  <a href="www.linkedin.com/in/hyemin-kim-834598327">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
