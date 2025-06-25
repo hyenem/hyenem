@@ -39,7 +39,7 @@
 
 | 프로젝트 | 설명 | 기술 스택 | 링크 |
 |---|---|---|---|
-| **Healog** | 운동 기록 및 건강 관리 웹 애플리케이션 | React, TypeScript, Spring Boot, MySQL | [🔗 Repository](https://github.com/hyenem/SSAFY_finalPJT_YYHM) |
+| **Healog** | 운동 기록 및 건강 관리 웹 애플리케이션 | Vue, Javascript, Spring Boot, MySQL | [🔗 Repository](https://github.com/hyenem/SSAFY_finalPJT_YYHM) |
 | **SCSAC:Board** | SCSA 내부 커뮤니티 게시판 웹 서비스 | React, Redux, Spring Boot, MySQL | [🔗 Repository](https://github.com/hyenem/scsac) |
 | **HaginHae** | 모임 일정 관리 Android 앱 | Android(Java), Retrofit, SQLite, RSS 파싱 | [🔗 Repository](https://github.com/hyenem/haginhae) |
 
