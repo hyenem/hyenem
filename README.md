@@ -42,7 +42,7 @@
 | **Healog** | 운동 기록 및 건강 관리 웹 애플리케이션 | Vue, JavaScript, Spring Boot, MyBatis, MySQL | [🔗 Repository](https://github.com/hyenem/SSAFY_finalPJT_YYHM) |
 | **SCSAC:Board** | SCSA 내부 커뮤니티 게시판 웹 서비스 | React, TypeScript, Spring Boot, JDBC, MySQL | [🔗 Repository](https://github.com/hyenem/scsac) |
 | **HaginHae** | 모임 일정 관리 Android 앱 | Android(Java), Retrofit, SQLite, RSS 파싱 | [🔗 Repository](https://github.com/hyenem/haginhae) |
-
+| **AppleGame** | 사과게임 기능 클론 | C/C++, SFML(GUI) | [🔗 Repository](https://github.com/hyenem/applegame) |
 ---
 
 <div align="center">
